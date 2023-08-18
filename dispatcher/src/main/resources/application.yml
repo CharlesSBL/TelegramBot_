@@ -1,0 +1,6 @@
+#server:
+#  port: 8081
+
+bot:
+  name: projectTelegramOneBot
+  token: 6411972731:AAFImih9H_-BKHGzBcaK95S8MqKmswKIV6I

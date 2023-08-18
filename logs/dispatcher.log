@@ -1,0 +1,70 @@
+2023-08-17 14:49:32 DEBUG TelegramBot:37 - vasa
+2023-08-17 15:02:58 DEBUG TelegramBot:36 - vasa 2
+2023-08-17 15:03:07 DEBUG TelegramBot:36 - mops
+2023-08-17 15:03:30 DEBUG TelegramBot:33 - Unlocked: 
+2023-08-17 15:03:30 DEBUG TelegramBot:36 - mops
+2023-08-17 15:04:22 DEBUG TelegramBot:33 - Unlocked: mops
+2023-08-17 15:04:28 DEBUG TelegramBot:35 - vasa
+2023-08-17 15:07:35 DEBUG TelegramBot:38 - vasa
+2023-08-17 15:07:42 DEBUG TelegramBot:38 - basa
+2023-08-17 15:11:52 DEBUG TelegramBot:54 - hello
+2023-08-17 15:12:57 ERROR TelegramBot:36 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: chat not found
+2023-08-17 15:12:57 DEBUG TelegramBot:56 - hello
+2023-08-17 15:12:57 ERROR TelegramBot:36 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: chat not found
+2023-08-17 15:13:32 ERROR TelegramBot:36 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: chat not found
+2023-08-17 15:13:32 DEBUG TelegramBot:56 - hello
+2023-08-17 15:16:15 DEBUG TelegramBot:55 - hello
+2023-08-17 15:16:18 DEBUG TelegramBot:51 - Unlocked: mops
+2023-08-17 15:17:36 DEBUG TelegramBot:55 - pug is king of chocolate world
+2023-08-17 15:17:39 DEBUG TelegramBot:51 - Unlocked: mops
+2023-08-17 15:17:43 DEBUG TelegramBot:55 - szmops
+2023-08-17 15:17:50 DEBUG TelegramBot:55 - mops I .
+2023-08-17 15:17:59 DEBUG TelegramBot:55 - wkusno i tocka
+2023-08-17 15:18:05 DEBUG TelegramBot:55 - Grrrrr
+2023-08-17 15:18:08 DEBUG TelegramBot:55 - mopss
+2023-08-17 15:18:10 DEBUG TelegramBot:55 - MOPS
+2023-08-17 15:18:13 DEBUG TelegramBot:55 - MOPS
+2023-08-17 15:18:17 DEBUG TelegramBot:55 - MoPs
+2023-08-17 15:18:19 DEBUG TelegramBot:55 - Mops
+2023-08-17 15:18:22 DEBUG TelegramBot:55 - mopsS
+2023-08-17 15:18:24 DEBUG TelegramBot:55 - mopS
+2023-08-17 15:18:26 DEBUG TelegramBot:51 - Unlocked: mops
+2023-08-17 15:19:18 DEBUG TelegramBot:55 - mopssssssssssssss
+2023-08-17 15:19:21 DEBUG TelegramBot:51 - Unlocked: mops
+2023-08-17 15:32:44 DEBUG TelegramBot:58 - Hello
+2023-08-17 15:32:50 DEBUG TelegramBot:58 - what
+2023-08-17 15:34:21 DEBUG TelegramBot:60 - hello
+2023-08-17 15:34:23 DEBUG TelegramBot:73 - vasa
+2023-08-17 15:34:27 DEBUG TelegramBot:69 - Unlocked: mops
+2023-08-17 15:37:48 DEBUG TelegramBot:72 - hello
+2023-08-17 15:37:50 DEBUG TelegramBot:50 - Unlocked: mops
+2023-08-17 15:46:18 DEBUG TelegramBot:81 - hello
+2023-08-17 15:46:22 DEBUG TelegramBot:81 - pug
+2023-08-17 15:46:25 DEBUG TelegramBot:77 - Unlocked: mops
+2023-08-17 15:50:44 DEBUG TelegramBot:71 - hell
+2023-08-17 15:50:47 DEBUG TelegramBot:67 - Unlocked: mops
+2023-08-17 15:50:49 DEBUG TelegramBot:71 - no
+2023-08-17 15:53:17 DEBUG TelegramBot:70 - hello
+2023-08-17 15:53:23 DEBUG TelegramBot:66 - Unlocked: mops
+2023-08-17 15:53:26 DEBUG TelegramBot:70 - oo
+2023-08-17 15:53:52 DEBUG TelegramBot:70 - /start
+2023-08-17 15:59:53 DEBUG TelegramBot:76 - /start
+2023-08-17 16:01:39 DEBUG TelegramBot:68 - pug
+2023-08-17 16:01:41 DEBUG TelegramBot:65 - Unlocked: mops
+2023-08-17 22:48:37 DEBUG TelegramBot:84 - dima
+2023-08-17 22:48:40 DEBUG TelegramBot:81 - Unlocked: mops
+2023-08-17 23:18:30 DEBUG TelegramBot:84 - Hi
+2023-08-17 23:18:40 DEBUG TelegramBot:84 - Hi
+2023-08-17 23:19:08 DEBUG TelegramBot:84 - Hello
+2023-08-17 23:19:28 DEBUG TelegramBot:84 - hello
+2023-08-17 23:19:36 DEBUG TelegramBot:84 - Hello :)
+2023-08-17 23:19:52 DEBUG TelegramBot:84 - Why
+2023-08-17 23:41:55 DEBUG TelegramBot:81 - Unlocked: mops
+2023-08-17 23:42:05 DEBUG TelegramBot:84 - Mops
+2023-08-17 23:42:09 DEBUG TelegramBot:84 - Hi
+2023-08-18 12:02:02 DEBUG TelegramBot:84 - Vasa
+2023-08-18 12:04:00 DEBUG TelegramBot:84 - vasa
+2023-08-18 12:04:02 DEBUG TelegramBot:84 - dima
+2023-08-18 12:04:08 DEBUG TelegramBot:81 - Unlocked: mops
+2023-08-18 12:06:52 DEBUG TelegramBot:84 - vasa
+2023-08-18 12:07:01 DEBUG TelegramBot:84 - what is your name
